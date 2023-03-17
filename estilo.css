@@ -10,6 +10,9 @@ body
 {
 background-image:url("fondo.jpg");
 }
+h2{
+	background-color:blue;
+}
 h3
 {
 text-align:center;
